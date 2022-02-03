@@ -5,4 +5,4 @@ Stichprobenwiederholungen für ausgewählte Kennwerte bei t-Test, linearer Regre
 Prof. Dr. Dennis Klinkhammer
 
 # Voraussetzungen
--/-
+Keine
